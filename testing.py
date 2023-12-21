@@ -1,3 +1,5 @@
+from main import create_dwarf_giant_pairs
+
 def test_create_giant_pairs():
 
     employees = [
@@ -16,3 +18,5 @@ def test_create_giant_pairs():
     assert not any((pair[1], pair[0]) in pairs for pair in pairs)
 
 
+
+    
