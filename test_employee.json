@@ -1,0 +1,22 @@
+[
+	{
+		"department": "R&D",
+		"name": "emp1",
+		"age": 46
+	},
+	{
+		"department": "Sales",
+		"name": "emp2",
+		"age": 28
+	},
+	{
+		"department": "R&D",
+		"name": "emp3",
+		"age": 33
+	},
+	{
+		"department": "R&D",
+		"name": "emp4",
+		"age": 29
+	}
+				]
